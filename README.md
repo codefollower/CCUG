@@ -4,6 +4,7 @@
 
 [Apache Cassandra](http://cassandra.apache.org/)是全世界排名第二的NoSQL数据库 <p>
 
+Cassandra下载:   http://cassandra.apache.org/download/ <p>
 Cassandra的文档:   http://www.datastax.com/docs <p>
 Cassandra的JIRA:   https://issues.apache.org/jira/browse/CASSANDRA <p>
 Cassandra的源代码: https://github.com/apache/cassandra <p>
