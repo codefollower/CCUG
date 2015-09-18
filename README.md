@@ -16,3 +16,9 @@ Cassandra针对不同语言的客户端Driver: https://github.com/datastax <p>
 
 任何有关Cassandra数据库的使用、设计、代码实现的问题都可以发到[这里](https://github.com/codefollower/CCUG/issues) <p>
 
+## 与Cassandra相关的项目
+
+* [Titan](https://github.com/thinkaurelius/titan)
+是一个分布式的图数据库，使用Cassandra作为后端存储
+* [Cassandra-lucene-index] (https://github.com/Stratio/cassandra-lucene-index) 
+是一个Cassandra插件，支持Full text、Geospatial search
